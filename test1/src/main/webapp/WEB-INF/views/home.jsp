@@ -6,20 +6,7 @@
 </head>
 <body>
 <h1>
-	hi test project
-	sky6946
-
-	shimseonjo
-	
-	ggggggg
-
-	shimseonjo     melong
-
-	
-	12345
-
-
-
+	hi 
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
