@@ -10,8 +10,7 @@
 	hi test project
 	sky6946
   hghghghg
-
-ã…Žã…Žã…Ž
+…Ž
 
 </h1>
 
